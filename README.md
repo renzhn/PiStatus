@@ -17,3 +17,6 @@ crontab -e
 
 
 在小米路由器后台管理的URL中寻找stok参数，其值即为路由器的token，填入weibo_status.py中的OPENWRT_TOKEN变量即可获取小米路由器状态信息（本人小米路由版本2.1.67）
+
+### Demo
+http://weibo.com/u/1563574905
