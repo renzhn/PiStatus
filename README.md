@@ -4,6 +4,8 @@
 
 ### 环境
 在树莓派2上安装Arch Linux Arm，然后easy_install pip和pip install weibo
+
+
 安装cronie来定时运行
 
 ### 获取 token
